@@ -18,10 +18,14 @@ Anaconda - Python 3.7
 ### Step 6: 
 
 ## PROGRAM:
+```
+Devloped by:m.d.harini
+ref no.:22001980
 with open('myfile.txt','r') as f1:
     with open('file2.txt','a') as f2:
         for line in f1:
             f2.write(line)
+```
             
 ### OUTPUT:
 ![image](https://user-images.githubusercontent.com/113497680/192234998-6d1d7b91-f96c-4e60-9a9e-89e6855d1591.png)
