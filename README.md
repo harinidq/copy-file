@@ -5,21 +5,23 @@ To write a python program for copying the contents from one file to another file
 PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
-### Step 1:
+Step 1:
+Create two empty files.
 
-### Step 2: 
- 
-### Step 3: 
+Step 2:
+In one file.txt enter some content and save the file.
 
+Step 3:
+In other file1.txt file read the file.txt using .read() build in function.
 
-### Step 4:  
+Step 4:
+Next ope file1.txt in write mode.
 
+Step 5:
+Copy file.txt using copy() funtion.
 
-### Step 5: 
-
-
-### Step 6: 
-
+Step 6:
+Run the program.
 ## PROGRAM:
 ```
 Devloped by:m.d.harini
